@@ -1,0 +1,5 @@
+
+telethon==1.27.0
+beautifulsoup4==4.12.2
+python-dotenv==1.0.0
+asyncio==3.4.3
